@@ -30,15 +30,10 @@
         // Map tilt in degrees
         pitch: 0,
         
-        // Header text
-        headerText: 'Туристская карта',
-        
-        // Footer text
-        footerText: 'Интерактивная карта',
         
         // URL where the iframe HTML file is hosted
         // IMPORTANT: Host this on a domain that allows iframe embedding
-        iframeUrl: 'https://your-hosting-domain.com/index.html',
+        iframeUrl: 'https://garyperiscope.github.io/alga/index.html',
         
         // ID of the container element where the map should be placed
         containerId: 'mapbox-container'
